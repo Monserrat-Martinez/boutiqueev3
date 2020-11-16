@@ -1,0 +1,4 @@
+Para la instalacion fuimos guiandonos de varios pasos que el profesor nos habia dado, a mi se me complico un poco pero al final pude seguirlos.
+lo primero que hacemos es entrar desde visual estudio code a nuestra carpeta de nuestro proyecto.
+cuando estamos ahi en nuestra terminal ponemos composer init y respondemos todo lo que se nos pide.
+despues de tener instalado composer, instalamos iluminate data base y de ultimo instalamos bulma con el comando yarn add bulma
